@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAM,MAAM,CAAC,GAAW,IAAsB,IAAI;AAElD,QAAQ,GAAG,CAAC,IAAI,GAAG","sources":["src/index.ts"],"sourcesContent":["const sum = (a: number, b: number): number => a + b;\r\n\r\nconsole.log(sum(8, 3));\r\n"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
